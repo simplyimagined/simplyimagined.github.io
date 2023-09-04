@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clock on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/clock/</link>
+    <description>Recent content in clock on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 09:36:00 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/clock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Clock With Nerves</title>
+      <link>https://simplyimagined.github.io/post/2023-08-31-binary-clock/</link>
+      <pubDate>Thu, 31 Aug 2023 09:36:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-08-31-binary-clock/</guid>
+      <description>&lt;p&gt;Them: &amp;ldquo;Hey, what time is it?&amp;rdquo;&lt;br&gt;
+Me: &amp;ldquo;Let me check this clock. Hmm, let&amp;rsquo;s see&amp;hellip; that plus that plus 4&amp;hellip;&amp;rdquo;&lt;br&gt;
+Them: &amp;ldquo;Just glance at the clock and tell me.&amp;rdquo;&lt;br&gt;
+Me: &amp;ldquo;Ok, just a second, the digits changed, let me redo this.&amp;rdquo;&lt;br&gt;
+Them: &amp;ldquo;Seriously, how hard can this&amp;hellip; Oh.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

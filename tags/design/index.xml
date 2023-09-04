@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/design/</link>
+    <description>Recent content in design on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 11:43:31 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing the Puzzle Component</title>
+      <link>https://simplyimagined.github.io/post/2023-08--01-puzzle/</link>
+      <pubDate>Tue, 01 Aug 2023 11:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-08--01-puzzle/</guid>
+      <description>&lt;p&gt;After deciding to do a clone of what is perhaps the most popular word game, I realized that never having played it could be a liability. I&amp;rsquo;d heard descriptions, seen everyone post their score pictures to Twitter, and read up on strategy. I&amp;rsquo;ve yet to even open the website. Let&amp;rsquo;s get started!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

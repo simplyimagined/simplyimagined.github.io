@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/page/</link>
+    <description>Recent content in Pages on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 13:43:31 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subtle</title>
+      <link>https://simplyimagined.github.io/page/subtle/</link>
+      <pubDate>Fri, 28 Jul 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/subtle/</guid>
+      <description>&lt;p&gt;After working through a book or two I decided I needed to step aside and work on a project of my own. This would let me take what I&amp;rsquo;d learned and put it to work on something different, without training wheels. The question was what to work on. Should I build a Twitter™ clone with in 15 minutes?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://simplyimagined.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Dan Anderson, a software developer living near Nashville with my wife and son. I enjoy solving puzzles, woodworking, and anything near the water. Currently, I&amp;rsquo;m learning &lt;em&gt;Elixir&lt;/em&gt; and its libraries with a goal of joining an amazing team to build software that matters. The deeper I get the more I enjoy this ecosystem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

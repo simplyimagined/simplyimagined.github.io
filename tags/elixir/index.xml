@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elixir on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/elixir/</link>
+    <description>Recent content in elixir on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 14:00:00 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/elixir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding the Fix</title>
+      <link>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</link>
+      <pubDate>Sun, 03 Sep 2023 14:00:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</guid>
+      <description>&lt;p&gt;This is the story of a bug I never saw coming, which manifested in a code path I never imagined or planned for. Certainly, good testing would have shown this earlier, but I don&amp;rsquo;t have test coverage of this module. I wanted to but I still have more to learn, and that&amp;rsquo;s a lesson for a future time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Subtle</title>
+      <link>https://simplyimagined.github.io/page/subtle/</link>
+      <pubDate>Fri, 28 Jul 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/subtle/</guid>
+      <description>&lt;p&gt;After working through a book or two I decided I needed to step aside and work on a project of my own. This would let me take what I&amp;rsquo;d learned and put it to work on something different, without training wheels. The question was what to work on. Should I build a Twitter™ clone with in 15 minutes?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gig City Elixir</title>
+      <link>https://simplyimagined.github.io/post/2023-05-20-gig-city-elixir/</link>
+      <pubDate>Sat, 20 May 2023 13:34:05 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-20-gig-city-elixir/</guid>
+      <description>&lt;p&gt;This year I was able to attend &lt;em&gt;Gig City Elixir&lt;/em&gt; in Chattanooga, TN.
+I had been searching for Elixir meetups near me when I ran across this conference and realized it was happening just two hours down the road and only two weeks away. I was quite nervous booking a ticket, as I was just learning the language while reading through books, but I&amp;rsquo;m so glad I went.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming Phoenix Liveview</title>
+      <link>https://simplyimagined.github.io/post/2023-05-10-liveview/</link>
+      <pubDate>Wed, 10 May 2023 14:23:07 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-10-liveview/</guid>
+      <description>&lt;p&gt;A few years ago I had read about &lt;em&gt;Elixir&lt;/em&gt; but didn&amp;rsquo;t get very far. This year I was determined to take another look. I had seen a bit on LiveView on YouTube and decided that&amp;rsquo;s where I wanted to start. At &lt;a href=&#34;https://pragprog.com&#34;&gt;Prag Prog&lt;/a&gt; I found &lt;a href=&#34;https://pragprog.com/titles/liveview/programming-phoenix-liveview/&#34;&gt;&lt;em&gt;Programming Phoenix LiveView&lt;/em&gt;&lt;/a&gt; by Bruce Tate and Sophie DeBenedetto. It&amp;rsquo;s still in beta, but I&amp;rsquo;ve always had good experiences with Prag Prog books.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enchanting Elixir</title>
+      <link>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</link>
+      <pubDate>Tue, 02 May 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</guid>
+      <description>&lt;p&gt;Previously, I&amp;rsquo;ve dicussed my &lt;a href=&#34;https://simplyimagined.github.io/post/2023-05-01-story-so-far/&#34;&gt;experiences&lt;/a&gt; and that I&amp;rsquo;ve been exposed to a lot of different languages and development environments. When I ran across &lt;a href=&#34;https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/&#34;&gt;Seven Languages in Seven Weeks&lt;/a&gt; I was intrigued by functional programming. I&amp;rsquo;d never seen anything like it.
+Somewhere after this I heard about &lt;em&gt;Elixir&lt;/em&gt; and ended up buying &lt;a href=&#34;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&#34;&gt;Programming Elixir&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

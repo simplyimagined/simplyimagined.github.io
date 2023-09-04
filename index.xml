@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simply Imagined</title>
+    <link>https://simplyimagined.github.io/</link>
+    <description>Recent content on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Sep 2023 09:00:00 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evolution of the Alphabet</title>
+      <link>https://simplyimagined.github.io/post/2023-09-04-alphabet/</link>
+      <pubDate>Mon, 04 Sep 2023 09:00:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-09-04-alphabet/</guid>
+      <description>&lt;p&gt;A few years ago I ran across a video on YouTube about the &lt;a href=&#34;https://www.youtube.com/watch?v=3kGuN8WIGNc&#34;&gt;Evolution of the Alphabet&lt;/a&gt;. Every now and then I remember it and spend some time amazed at how we got the alphabet we all take for granted.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finding the Fix</title>
+      <link>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</link>
+      <pubDate>Sun, 03 Sep 2023 14:00:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</guid>
+      <description>&lt;p&gt;This is the story of a bug I never saw coming, which manifested in a code path I never imagined or planned for. Certainly, good testing would have shown this earlier, but I don&amp;rsquo;t have test coverage of this module. I wanted to but I still have more to learn, and that&amp;rsquo;s a lesson for a future time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building a Clock With Nerves</title>
+      <link>https://simplyimagined.github.io/post/2023-08-31-binary-clock/</link>
+      <pubDate>Thu, 31 Aug 2023 09:36:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-08-31-binary-clock/</guid>
+      <description>&lt;p&gt;Them: &amp;ldquo;Hey, what time is it?&amp;rdquo;&lt;br&gt;
+Me: &amp;ldquo;Let me check this clock. Hmm, let&amp;rsquo;s see&amp;hellip; that plus that plus 4&amp;hellip;&amp;rdquo;&lt;br&gt;
+Them: &amp;ldquo;Just glance at the clock and tell me.&amp;rdquo;&lt;br&gt;
+Me: &amp;ldquo;Ok, just a second, the digits changed, let me redo this.&amp;rdquo;&lt;br&gt;
+Them: &amp;ldquo;Seriously, how hard can this&amp;hellip; Oh.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing the Puzzle Component</title>
+      <link>https://simplyimagined.github.io/post/2023-08--01-puzzle/</link>
+      <pubDate>Tue, 01 Aug 2023 11:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-08--01-puzzle/</guid>
+      <description>&lt;p&gt;After deciding to do a clone of what is perhaps the most popular word game, I realized that never having played it could be a liability. I&amp;rsquo;d heard descriptions, seen everyone post their score pictures to Twitter, and read up on strategy. I&amp;rsquo;ve yet to even open the website. Let&amp;rsquo;s get started!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Subtle</title>
+      <link>https://simplyimagined.github.io/page/subtle/</link>
+      <pubDate>Fri, 28 Jul 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/subtle/</guid>
+      <description>&lt;p&gt;After working through a book or two I decided I needed to step aside and work on a project of my own. This would let me take what I&amp;rsquo;d learned and put it to work on something different, without training wheels. The question was what to work on. Should I build a Twitter™ clone with in 15 minutes?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gig City Elixir</title>
+      <link>https://simplyimagined.github.io/post/2023-05-20-gig-city-elixir/</link>
+      <pubDate>Sat, 20 May 2023 13:34:05 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-20-gig-city-elixir/</guid>
+      <description>&lt;p&gt;This year I was able to attend &lt;em&gt;Gig City Elixir&lt;/em&gt; in Chattanooga, TN.
+I had been searching for Elixir meetups near me when I ran across this conference and realized it was happening just two hours down the road and only two weeks away. I was quite nervous booking a ticket, as I was just learning the language while reading through books, but I&amp;rsquo;m so glad I went.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming Phoenix Liveview</title>
+      <link>https://simplyimagined.github.io/post/2023-05-10-liveview/</link>
+      <pubDate>Wed, 10 May 2023 14:23:07 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-10-liveview/</guid>
+      <description>&lt;p&gt;A few years ago I had read about &lt;em&gt;Elixir&lt;/em&gt; but didn&amp;rsquo;t get very far. This year I was determined to take another look. I had seen a bit on LiveView on YouTube and decided that&amp;rsquo;s where I wanted to start. At &lt;a href=&#34;https://pragprog.com&#34;&gt;Prag Prog&lt;/a&gt; I found &lt;a href=&#34;https://pragprog.com/titles/liveview/programming-phoenix-liveview/&#34;&gt;&lt;em&gt;Programming Phoenix LiveView&lt;/em&gt;&lt;/a&gt; by Bruce Tate and Sophie DeBenedetto. It&amp;rsquo;s still in beta, but I&amp;rsquo;ve always had good experiences with Prag Prog books.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enchanting Elixir</title>
+      <link>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</link>
+      <pubDate>Tue, 02 May 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</guid>
+      <description>&lt;p&gt;Previously, I&amp;rsquo;ve dicussed my &lt;a href=&#34;https://simplyimagined.github.io/post/2023-05-01-story-so-far/&#34;&gt;experiences&lt;/a&gt; and that I&amp;rsquo;ve been exposed to a lot of different languages and development environments. When I ran across &lt;a href=&#34;https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/&#34;&gt;Seven Languages in Seven Weeks&lt;/a&gt; I was intrigued by functional programming. I&amp;rsquo;d never seen anything like it.
+Somewhere after this I heard about &lt;em&gt;Elixir&lt;/em&gt; and ended up buying &lt;a href=&#34;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&#34;&gt;Programming Elixir&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Story So Far</title>
+      <link>https://simplyimagined.github.io/post/2023-05-01-story-so-far/</link>
+      <pubDate>Mon, 01 May 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-01-story-so-far/</guid>
+      <description>&lt;p&gt;I have been fortunate to experience changes from the very first home computers to our handheld pocket marvels today. I began with a 300 baud modem, thought 1200 baud single duplex was amazing, and now multi-gigabit ethernet. I began on an Apple ][ and have used PCs, mainframes, Sparc stations, embedded systems, and now phones and the web. I have written games, a stadium card-stunt generator, embedded scientific instruments, medical devices, factory assembly line software, multi-platform hardware configuration UI, iPhone apps, and now web apps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://simplyimagined.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Dan Anderson, a software developer living near Nashville with my wife and son. I enjoy solving puzzles, woodworking, and anything near the water. Currently, I&amp;rsquo;m learning &lt;em&gt;Elixir&lt;/em&gt; and its libraries with a goal of joining an amazing team to build software that matters. The deeper I get the more I enjoy this ecosystem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

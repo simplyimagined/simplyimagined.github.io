@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>liveview on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/liveview/</link>
+    <description>Recent content in liveview on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 13:43:31 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/liveview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subtle</title>
+      <link>https://simplyimagined.github.io/page/subtle/</link>
+      <pubDate>Fri, 28 Jul 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/subtle/</guid>
+      <description>&lt;p&gt;After working through a book or two I decided I needed to step aside and work on a project of my own. This would let me take what I&amp;rsquo;d learned and put it to work on something different, without training wheels. The question was what to work on. Should I build a Twitter™ clone with in 15 minutes?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

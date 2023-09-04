@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/books/</link>
+    <description>Recent content in books on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2023 14:23:07 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Phoenix Liveview</title>
+      <link>https://simplyimagined.github.io/post/2023-05-10-liveview/</link>
+      <pubDate>Wed, 10 May 2023 14:23:07 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-10-liveview/</guid>
+      <description>&lt;p&gt;A few years ago I had read about &lt;em&gt;Elixir&lt;/em&gt; but didn&amp;rsquo;t get very far. This year I was determined to take another look. I had seen a bit on LiveView on YouTube and decided that&amp;rsquo;s where I wanted to start. At &lt;a href=&#34;https://pragprog.com&#34;&gt;Prag Prog&lt;/a&gt; I found &lt;a href=&#34;https://pragprog.com/titles/liveview/programming-phoenix-liveview/&#34;&gt;&lt;em&gt;Programming Phoenix LiveView&lt;/em&gt;&lt;/a&gt; by Bruce Tate and Sophie DeBenedetto. It&amp;rsquo;s still in beta, but I&amp;rsquo;ve always had good experiences with Prag Prog books.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

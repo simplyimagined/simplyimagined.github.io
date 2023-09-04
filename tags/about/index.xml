@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/about/</link>
+    <description>Recent content in about on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 13:43:31 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enchanting Elixir</title>
+      <link>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</link>
+      <pubDate>Tue, 02 May 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-02-enchanting-elixir/</guid>
+      <description>&lt;p&gt;Previously, I&amp;rsquo;ve dicussed my &lt;a href=&#34;https://simplyimagined.github.io/post/2023-05-01-story-so-far/&#34;&gt;experiences&lt;/a&gt; and that I&amp;rsquo;ve been exposed to a lot of different languages and development environments. When I ran across &lt;a href=&#34;https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/&#34;&gt;Seven Languages in Seven Weeks&lt;/a&gt; I was intrigued by functional programming. I&amp;rsquo;d never seen anything like it.
+Somewhere after this I heard about &lt;em&gt;Elixir&lt;/em&gt; and ended up buying &lt;a href=&#34;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&#34;&gt;Programming Elixir&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Story So Far</title>
+      <link>https://simplyimagined.github.io/post/2023-05-01-story-so-far/</link>
+      <pubDate>Mon, 01 May 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-05-01-story-so-far/</guid>
+      <description>&lt;p&gt;I have been fortunate to experience changes from the very first home computers to our handheld pocket marvels today. I began with a 300 baud modem, thought 1200 baud single duplex was amazing, and now multi-gigabit ethernet. I began on an Apple ][ and have used PCs, mainframes, Sparc stations, embedded systems, and now phones and the web. I have written games, a stadium card-stunt generator, embedded scientific instruments, medical devices, factory assembly line software, multi-platform hardware configuration UI, iPhone apps, and now web apps.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

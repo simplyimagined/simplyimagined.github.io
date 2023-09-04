@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>subtle on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/subtle/</link>
+    <description>Recent content in subtle on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 14:00:00 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/subtle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding the Fix</title>
+      <link>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</link>
+      <pubDate>Sun, 03 Sep 2023 14:00:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</guid>
+      <description>&lt;p&gt;This is the story of a bug I never saw coming, which manifested in a code path I never imagined or planned for. Certainly, good testing would have shown this earlier, but I don&amp;rsquo;t have test coverage of this module. I wanted to but I still have more to learn, and that&amp;rsquo;s a lesson for a future time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing the Puzzle Component</title>
+      <link>https://simplyimagined.github.io/post/2023-08--01-puzzle/</link>
+      <pubDate>Tue, 01 Aug 2023 11:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-08--01-puzzle/</guid>
+      <description>&lt;p&gt;After deciding to do a clone of what is perhaps the most popular word game, I realized that never having played it could be a liability. I&amp;rsquo;d heard descriptions, seen everyone post their score pictures to Twitter, and read up on strategy. I&amp;rsquo;ve yet to even open the website. Let&amp;rsquo;s get started!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Subtle</title>
+      <link>https://simplyimagined.github.io/page/subtle/</link>
+      <pubDate>Fri, 28 Jul 2023 13:43:31 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/page/subtle/</guid>
+      <description>&lt;p&gt;After working through a book or two I decided I needed to step aside and work on a project of my own. This would let me take what I&amp;rsquo;d learned and put it to work on something different, without training wheels. The question was what to work on. Should I build a Twitter™ clone with in 15 minutes?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

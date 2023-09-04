@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iex on Simply Imagined</title>
+    <link>https://simplyimagined.github.io/tags/iex/</link>
+    <description>Recent content in iex on Simply Imagined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 14:00:00 -0500</lastBuildDate><atom:link href="https://simplyimagined.github.io/tags/iex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding the Fix</title>
+      <link>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</link>
+      <pubDate>Sun, 03 Sep 2023 14:00:00 -0500</pubDate>
+      
+      <guid>https://simplyimagined.github.io/post/2023-09-03-debugging-subtle/</guid>
+      <description>&lt;p&gt;This is the story of a bug I never saw coming, which manifested in a code path I never imagined or planned for. Certainly, good testing would have shown this earlier, but I don&amp;rsquo;t have test coverage of this module. I wanted to but I still have more to learn, and that&amp;rsquo;s a lesson for a future time.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
